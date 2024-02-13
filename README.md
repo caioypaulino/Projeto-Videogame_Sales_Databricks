@@ -47,5 +47,7 @@ Os dois podem ser acessados através dos links gerados pela plataforma:<br><br>
 (Acesse os links acima para conferir todas as análises detalhadas e Dashboard completo)
 
 ![Dashboard](https://github.com/caioypaulino/Projeto-Videogame_Sales_Databricks/blob/main/Images/Dashboard%20Videogame%20Sales%20Example.png)
+
 ![Notebook5](https://github.com/caioypaulino/Projeto-Videogame_Sales_Databricks/blob/main/Images/Notebook%20005%20Example.png)
+
 ![Notebook6](https://github.com/caioypaulino/Projeto-Videogame_Sales_Databricks/blob/main/Images/Notebook%20006%20Example.png)
