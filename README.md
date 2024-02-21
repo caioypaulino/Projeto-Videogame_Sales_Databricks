@@ -38,10 +38,13 @@ As perguntas de negócio para o processo de análise foram respondidas utilizand
 - 005: Qual é a participação de mercado(%) dos principais editores de videogames em termos de vendas Norte Americanas e Japonesas?<br>
 - 006: Quais são os cinco jogos mais vendidos em termos de vendas globais e em quais plataformas eles foram lançados?<br>
 
-## Notebook e Dashboard
-Os dois podem ser acessados através dos links gerados pela plataforma:<br><br>
+## Notebook
+O Notebook pode ser acessado através do links gerado pela plataforma:<br><br>
 **Notebook:** https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4587457387213016/4128318070257346/8228578099102552/latest.html<br>
-**Dashboard:** https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4587457387213016/4128318070257346/8228578099102552/latest.html
+
+## Dashboard
+Este é o resultado da estrutura final do dashboard, montado a partir das análises e gráficos feitos através do notebook.
+![Dashboardgif](https://github.com/caioypaulino/Projeto-Videogame_Sales_Databricks/blob/main/Images/Dashboard.gif)
 
 ## Imagens de Exemplo:
 (Acesse os links acima para conferir todas as análises detalhadas e Dashboard completo)
