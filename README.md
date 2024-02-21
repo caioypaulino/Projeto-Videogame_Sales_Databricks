@@ -39,15 +39,16 @@ As perguntas de negócio para o processo de análise foram respondidas utilizand
 - 006: Quais são os cinco jogos mais vendidos em termos de vendas globais e em quais plataformas eles foram lançados?<br>
 
 ## Notebook
-O Notebook pode ser acessado através do links gerado pela plataforma:<br><br>
+O Notebook pode ser acessado através do link gerados pela plataforma:<br><br>
 **Notebook:** https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4587457387213016/4128318070257346/8228578099102552/latest.html<br>
 
 ## Dashboard
-Este é o resultado da estrutura final do dashboard, montado a partir das análises e gráficos feitos através do notebook.
-![Dashboardgif](https://github.com/caioypaulino/Projeto-Videogame_Sales_Databricks/blob/main/Images/Dashboard.gif)
+Aqui está a estrutura final do painel de Dashboard, construído a partir das análises e gráficos criados através do Databricks Notebook:
+
+![DashboardGif](https://github.com/caioypaulino/Projeto-Videogame_Sales_Databricks/blob/main/Images/Dashboard.gif)
 
 ## Imagens de Exemplo:
-(Acesse os links acima para conferir todas as análises detalhadas e Dashboard completo)
+(Acesse o link acima para conferir todas as análises detalhadas)
 
 ![Dashboard](https://github.com/caioypaulino/Projeto-Videogame_Sales_Databricks/blob/main/Images/Dashboard%20Videogame%20Sales%20Example.png)
 
