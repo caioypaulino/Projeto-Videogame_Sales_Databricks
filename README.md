@@ -1,4 +1,4 @@
-# **Projeto: Análise de Mercado: Videogame Sales (Databricks e SQL)**
+# **Projeto: Análise de Mercado - Videogame Sales (Databricks e SQL)**
 
 ## **Stack**
 Databricks, SQL
